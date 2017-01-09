@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+
+
+
+test = module.exports = {};
+
+test.index = function (req, res){
+    return res.render
+
+}

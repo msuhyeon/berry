@@ -1,0 +1,13 @@
+{
+  "restartable": "rs",
+  "ignore": [
+    "public/assets/*",
+    "public/images/*",
+    "public/output/*"
+  ],
+  "execMap": {
+    "js": "node --harmony"
+  },
+  "ext": "hbs js less",
+  "delay" : 1
+}
